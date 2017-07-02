@@ -1,5 +1,5 @@
 {
-    "name": "laravelrus/localized-carbon",
+    "name": "kirr665/localized-carbon",
     "description": "A localizable version of Carbon",
     "keywords": ["laravel", "carbon", "datetime", "date", "time"],
     "license": "MIT",
